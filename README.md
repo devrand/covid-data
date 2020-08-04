@@ -1,2 +1,6 @@
 # covid-data
-Open datasets, assorted
+Open datasets for COVID-19 data for Ukraine, assorted
+
+
+# Files
+zgz_testing_data.csv  - data about tests. Data from June is from Public Health Center, extracted from [this set of xls files](https://cloud.phc.org.ua/index.php/s/gk98W4s3DZFbwEd). Data before June - our historical reconstruction/approximation, based on public reports.
